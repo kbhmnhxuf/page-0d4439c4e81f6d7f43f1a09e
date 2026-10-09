@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a75c8787e9d3b1581d6d9ab4",
+  "owner": "kbhmnhxuf",
+  "repo": "page-0d4439c4e81f6d7f43f1a09e",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0d4439c4e81f6d7f43f1a09e",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "46f5c8a8571b9ae69fa2939abcb8ab7a6f0dcb0ee25e9fb622a34d9c457e0cd9",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充为您提供专业的GPT代理加速服务，每月GB流量包，支持多设备在线，解锁各类流媒体。访问官网下载客户端，畅享高速网络加速体验。",
+          "AI_DESCRIPTION": "GPT代充为您提供专业的GPT代理加速服务，每月GB流量包，支持多设备在线，解锁各类流媒体。访问官网下载客户端，畅享高速网络加速体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --beige: #F8F6F0;\n            --forest-green: #2E8B3D;\n            --dark-text: #2C3E50;\n        }\n        * { box-sizing: border-box; }\n        body {\n            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            max-width: 1200px;\n            margin: 0 auto;\n            background: var(--beige);\n            color: var(--dark-text);\n            line-height: 1.7;\n            padding: 0 15px;\n        }\n        main { padding: 20px 0; }\n        h1 { color: var(--forest-green); text-align: center; font-size: 2.8em; margin-bottom: 10px; }\n        h2 { color: var(--forest-green); font-size: 1.8em; border-bottom: 2px solid var(--forest-green); padding-bottom: 8px; }\n        section { margin: 40px 0; }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 20px;\n        }\n        .plan-card {\n            background: white;\n            border: 2px solid var(--forest-green);\n            border-radius: 12px;\n            padding: 25px 20px;\n            transition: transform 0.3s;\n        }\n        .plan-card:hover { transform: translateY(-5px); }\n        .plan-card h3 { color: var(--forest-green); margin: 0 0 10px; }\n        .plan-price {\n            font-size: 1.6em;\n            color: var(--forest-green);\n            font-weight: bold;\n            margin-bottom: 15px;\n        }\n        .plan-price.annual {\n            font-size: 1em;\n            color: #666;\n            font-weight: normal;\n        }\n        .plan-card ul {\n            list-style: none;\n            padding: 0;\n            margin: 0;\n        }\n        .plan-card li { padding: 8px 0; }\n        .plan-card.featured {\n            border: 3px solid var(--forest-green);\n            position: relative;\n        }\n        .plan-card.featured::before {\n            content: \"* 推荐\";\n            position: absolute;\n            top: -12px;\n            right: 20px;\n            background: var(--forest-green);\n            color: white;\n            padding: 4px 12px;\n            border-radius: 20px;\n            font-size: 0.85em;\n        }\n        details {\n            background: white;\n            margin: 15px 0;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            font-weight: bold;\n            color: var(--forest-green);\n            padding: 15px 20px;\n            cursor: pointer;\n            font-size: 1.1em;\n        }\n        summary::-webkit-details-marker { display: none; }\n        .faq-answer { padding: 0 20px 15px; }\n        footer {\n            background: var(--forest-green);\n            color: white;\n            text-align: center;\n            padding: 25px;\n            margin-top: 60px;\n            border-radius: 8px;\n        }\n        @media (max-width: 768px) {\n            h1 { font-size: 2.2em; }\n            .plans-grid { grid-template-columns: 1fr; }\n        }\n    </style>\n\n\n    <main>\n        <h1>GPT代充</h1>\n        \n        <section>\n            <h2>产品简介</h2>\n            <p>GPT代充是专为GPT服务优化的代理加速平台，采用先进的IPLC专线技术，提供稳定高速的网络连接。无论您是个人用户还是企业团队，都能找到适合的套餐。我们的节点池覆盖全球，保障低延迟和高速度，助力您畅享GPT相关服务。</p>\n        </section>\n        \n        <section>\n            <h2>套餐选择</h2>\n            <div class=\"plans-grid\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <div class=\"plan-price\">¥15/月 <span class=\"plan-price annual\">(年付仅需 ¥150/年)</span></div>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                \n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"plan-price\">¥35/月 <span class=\"plan-price annual\">(年付仅需 ¥350/年)</span></div>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                \n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <div class=\"plan-price\">¥85/月 <span class=\"plan-price annual\">(年付仅需 ¥850/年)</span></div>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        \n        <section>\n            <h2>使用场景</h2>\n            <p>GPT代充适用于多种场景：</p>\n            <ul>\n                <li><strong>个人用户：</strong>日常办公和远程工作，畅享GPT平台服务。</li>\n                <li><strong>开发者：</strong>加速API调用和数据传输。</li>\n                <li><strong>企业团队：</strong>多台设备协同办公，提供定制路由。</li>\n                <li><strong>内容创作者：</strong>流媒体解锁，助力在线创作。</li>\n            </ul>\n        </section>\n        \n        <section>\n            <h2>操作指南</h2>\n            <ol>\n                <li>访问我们的官网，选择适合的套餐进行订阅。</li>\n                <li>完成支付后，登录账号获取配置信息。</li>\n                <li>从官网下载对应操作系统的客户端。</li>\n                <li>在客户端中导入配置并选择高速节点连接。</li>\n                <li>享受每月GB流量包带来的稳定加速体验。</li>\n            </ol>\n        </section>\n        \n        <section>\n            <h2>常见问题</h2>\n            <details>\n                <summary>GPT代充是什么？</summary>\n                <div class=\"faq-answer\">\n                    <p>GPT代充是专为GPT服务优化的代理加速平台，提供稳定高速的网络加速解决方案，帮助用户畅享GPT相关服务。</p>\n                </div>\n            </details>\n            \n            <details>\n                <summary>如何选择套餐？</summary>\n                <div class=\"faq-answer\">\n                    <p>根据您的设备数量和使用需求选择：基础版适合个人，旗舰版支持更多设备并有游戏加速，团队版适合大型团队并提供专属服务。</p>\n                </div>\n            </details>\n            \n            <details>\n                <summary>客户端如何下载？</summary>\n                <div class=\"faq-answer\">\n                    <p>请访问我们的官网页面，选择对应操作系统下载客户端程序。下载地址详见官网。</p>\n                </div>\n            </details>\n            \n            <details>\n                <summary>支持哪些设备？</summary>\n                <div class=\"faq-answer\">\n                    <p>我们支持Windows、macOS、Android、iOS等主流平台，用户可根据需要选择客户端。</p>\n                </div>\n            </details>\n            \n            <details>\n                <summary>售后支持如何？</summary>\n                <div class=\"faq-answer\">\n                    <p>旗舰版及以上套餐提供7x24优先工单支持，团队版还有专属客户经理服务，快速响应您的疑问。</p>\n                </div>\n            </details>\n        </section>\n        \n        <footer>\n            <p>© 2024 GPT代充 所有权利保留</p>\n            <p>友情链接：更多资源请访问官网获取</p>\n            <p>如有合作或广告需求，请通过官网联系我们。</p>\n        </footer>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "7557c312b8a977a2190ed4248c173135f4ee4dd85db423ffb82823dba4df869d",
+          "seo": {
+            "title": "GPT代充 - 专业GPT代理加速器 | 客户端下载 | 官网",
+            "keywords": "GPT代充, GPT代理, 代理加速器, VPN梯子, 网络加速, 客户端下载, 官网下载, 流量包",
+            "description": "GPT代充为您提供专业的GPT代理加速服务，每月GB流量包，支持多设备在线，解锁各类流媒体。访问官网下载客户端，畅享高速网络加速体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pkpudai.cn",
+    "host": "p-343632ccb0.pkpudai.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b5582c0871e3b1e51c13b18d4528c66f1be2949908d54a5727857f67731bf8d2",
+    "sitemap.xml": "92b5195377c5d65d637cd158571ea2f474474b76a369f135f2bcb23091277426",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "32f3f998cdb95d684d88a4a34fe098fc166f86d7c1e348144042d54152765444",
+    "robots.txt": "e65b06c0e74c31c328298d7915124e1cd1f04920f021ebdb0401e778bb09419c",
+    "2179ec307d6e89b92c3f074ab8f1e966.txt": "23ea35fdf0438ce9321853e806e53ea729fcf10a849fe7555b1a17364d41a7ae"
+  },
+  "revision": "dbba3c2106b2897392bc53744ccab0f3712ef13b31ea3d301280c2e7ce54595c"
+}
